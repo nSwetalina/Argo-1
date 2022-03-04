@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/nSwetalina/Argo
+    repoURL: https://github.com/ankitakalgut/Argo.git
     targetRevision: HEAD
     path: dev
   destination: 
